@@ -7,9 +7,9 @@ my_list.insert(1,15) #insert the value 15 in index 1
 new_list = [50,60,70]
 my_list += new_list
 
-my_list.pop() #remove last item from the list
+my_list.pop() #remove last item from the list..........
 
-my_list.sort() # sort with ascending order
+my_list.sort() # sort with ascending order .......
 
 indexes = my_list.index(30) #index of 
 
